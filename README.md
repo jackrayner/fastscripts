@@ -25,5 +25,5 @@ As someone who likes to use a mechanical keyboard for work, I found that most of
 
 1. Clone this repo.
 2. Change directory to the root of the repo.
-3. Run `add_folder.sh` to add the path to your checkout to FastScripts.
+3. Run `add_folder.sh` to add the path to the `Scripts` folder to FastScripts.
 4. Assign keyboard shortcuts in FastScripts!
